@@ -1,0 +1,16 @@
+:root {
+  --primary: #283f24;
+  --secondary: #467235;
+  --accent: #fff78d;
+
+  --bg-color: #ffffff;
+
+  --bg-blob1: #ffff00;
+  --bg-blob2: #ffff00;
+  --bg-blob3: #ffff00;
+
+  --card-bg: #fff2d0;
+  --card-color: #283f24;
+  --card-border: rgba(88, 83, 0, 0.5);
+  --card-shadow: #283f24;
+}
